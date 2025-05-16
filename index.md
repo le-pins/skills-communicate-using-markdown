@@ -2,10 +2,17 @@
 ## H2
 ###### H6
 
-# Images
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+# CHecklist
+- [ ] Not Done
+- [X] Done
+- [ ] Not Done
+  
 # Code
 ```
 var msg = "Hello World!";
 ```
+
+# Images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
