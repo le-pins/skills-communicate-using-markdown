@@ -1,7 +1,11 @@
-# H1
+# Titles
 ## H2
 ###### H6
 
-Testing titles in md
-
+# Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Code
+```
+var msg = "Hello World!";
+```
